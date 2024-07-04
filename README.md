@@ -7,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/YuryGilm)
 
 ## About me
-- 🌱 I’m currently learning FastAPI
+- 🌱 I’m currently learning FastAPI, Frappe-Framwork
 - 📖 I regularly read articles on [Habr](https://habr.com)
 - 📄 Know about my experiences [CV](https://hh.ru/resume/a3ba67f5ff060039840039ed1f6a5636786653)
 - 📫 Reach me by [email](mailto:ygilm@bk.ru)
@@ -24,6 +24,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white&style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-teal?logo=fastapi&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?logo=mysql&logoColor=white&style=for-the-badge)
+![JWT](https://img.shields.io/badge/-JWT-lightgrey?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/-SQLite-lightgrey?logo=sqlite&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-lightgrey?logo=linux&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-lightgrey?logo=bootstrap&logoColor=white&style=for-the-badge)
 
 ## My stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YGilm&show_icons=true&theme=dark)
