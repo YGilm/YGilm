@@ -7,8 +7,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/YuryGilm)
 
 ## About me
-- 🌱 I’m currently learning FastAPI, Frappe-Framwork
-- 📖 I regularly read articles on [Habr](https://habr.com)
 - 📄 Know about my experiences [CV](https://hh.ru/resume/a3ba67f5ff060039840039ed1f6a5636786653)
 - 📫 Reach me by [email](mailto:ygilm@bk.ru)
 - 🌐 I speak English (A2) and Spanish (fluent)
