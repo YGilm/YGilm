@@ -1,6 +1,4 @@
-# Hi there, I'm Yury Gilmutdinov
 
-**Python Developer from Moscow**
 
 [![Resume](https://img.shields.io/badge/-Resume-blue)](https://hh.ru/resume/a3ba67f5ff060039840039ed1f6a5636786653)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple)](https://www.instagram.com/yurygilm/)
